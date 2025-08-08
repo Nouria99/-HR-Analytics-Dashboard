@@ -4,22 +4,25 @@ This project presents an interactive HR Analytics Dashboard created using Excel.
 ### Full HR Analytics Dashboard
 <img src="https://github.com/Nouria99/-HR-Analytics-Dashboard/blob/main/image.png" alt="HR Analytics Dashboard" width="1000"/>
 
-##  What I Did
+**Key Features**
 
-- Cleaned and preprocessed HR data using Excel.
-- Designed a user-friendly, visually structured dashboard.
-- Applied best practices in chart selection, color use, and layout design.
+* Interactive slicers for filtering by country, department, and gender.
+* Visual comparisons of salaries by gender, ethnicity, and location.
+* Hiring trend analysis over multiple decades.
+* Bonus distribution breakdown by ethnicity.
+* Department and business unit employee distribution visualised using treemaps and sunburst charts.
 
-##  What I Learned
+**Tools Used**
 
-- How to use Excel for advanced data visualization.
-- Applied theories like Cognitive Load Theory, Gestalt Principles, and Color Theory.
-- Improved my skills in presenting complex data in a simplified, actionable format for HR decision-makers.
+* Microsoft Excel (data cleaning, preprocessing, and dashboard creation).
+* Data visualisation best practices (Gestalt Principles, Colour Theory, Cognitive Load Theory, User-Centred Design).
 
-## Key Insights
+**Insights Highlighted**
 
-- **Pay Gap**: Notable salary differences between genders in departments like IT and Marketing.
-- **Bonus Bias**: Unequal bonus distributions across ethnic groups.
-- **Hiring Trends**: Gender disparity visible in certain hiring years.
-- **City Salaries**: Higher average salaries observed in Shanghai and Austin.
-- **Employee Distribution**: Imbalanced distribution across departments and business units.
+* Gender pay gaps identified in departments such as IT and Marketing.
+* Bonus distribution disparities, with certain ethnic groups receiving higher average bonuses.
+* Hiring trends showing an overall increase in both male and female hires, with occasional gender imbalances.
+* Higher salaries in key cities such as Shanghai and Austin, indicating strategic locations for talent attraction and retention.
+
+
+
